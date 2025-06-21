@@ -88,7 +88,7 @@ Certifique-se de ter os softwares instalados:
 ### 📥 Passo 1: Clonar o Repositório
 
 ```bash
-git clone https://github.com/deivisondelmiro/tabd
+git clone https://github.com/deivisondelmiro/datawarehouse-tabd
 cd tabd
 ```
 
